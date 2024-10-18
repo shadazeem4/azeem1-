@@ -1,0 +1,19 @@
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+My name is azeem ansari 
+my age is 19
+
+dont know
+
+my home city is mirazpur
+
+=======
+=======
+>>>>>>> Stashed changes
+
+My name is azeem ansari
+shad
+my age is 19
+
+dont know
+
